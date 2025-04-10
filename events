@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 
 BEGIN:VEVENT
-UID:20250101-new-years-day@chaos-carnival
+UID:20250101-new-years-day@kinetical
 SUMMARY:🎉 New Year's Day 🎊
 DESCRIPTION:First day of the Gregorian calendar year
 DTSTART:20250101
@@ -15,7 +15,7 @@ CATEGORIES:Government Holiday
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250106-three-kings-day@chaos-carnival
+UID:20250106-three-kings-day@kinetical
 SUMMARY:👑 Three Kings' Day 🌟
 DESCRIPTION:Christian holiday celebrating the visit of the Magi to baby Jesus
 DTSTART:20250106
@@ -25,7 +25,7 @@ CATEGORIES:Religious Event
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250107-golden-globes@chaos-carnival
+UID:20250107-golden-globes@kinetical
 SUMMARY:🏆 Golden Globe Awards 🎭
 DESCRIPTION:Annual film and television awards ceremony by the HFPA
 DTSTART:20250107
@@ -35,7 +35,7 @@ CATEGORIES:Entertainment
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250120-mlk-day@chaos-carnival
+UID:20250120-mlk-day@kinetical
 SUMMARY:🕊️ Martin Luther King Day 🤝
 DESCRIPTION:Honoring the civil rights leader's birthday and legacy
 DTSTART:20250120
@@ -45,7 +45,7 @@ CATEGORIES:Government Holiday
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250125-lunar-new-year@chaos-carnival
+UID:20250125-lunar-new-year@kinetical
 SUMMARY:🐉 Lunar New Year 🧧
 DESCRIPTION:Traditional Asian New Year celebration
 DTSTART:20250125
@@ -55,7 +55,7 @@ CATEGORIES:Holiday
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250202-groundhog-day@chaos-carnival
+UID:20250202-groundhog-day@kinetical
 SUMMARY:🐿️ Groundhog Day 🌤️
 DESCRIPTION:Weather prediction tradition
 DTSTART:20250202
@@ -65,7 +65,7 @@ CATEGORIES:Fun
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250202-super-bowl@chaos-carnival
+UID:20250202-super-bowl@kinetical
 SUMMARY:🏈 Super Bowl Sunday 🏆
 DESCRIPTION:Annual championship game of the NFL
 DTSTART:20250202
@@ -75,7 +75,7 @@ CATEGORIES:Sporting Event
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250208-grammys@chaos-carnival
+UID:20250208-grammys@kinetical
 SUMMARY:🎶 Grammy Awards 🏆
 DESCRIPTION:Annual music awards ceremony
 DTSTART:20250208
@@ -85,7 +85,7 @@ CATEGORIES:Media Event
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250209-pizza-day@chaos-carnival
+UID:20250209-pizza-day@kinetical
 SUMMARY:🍕 Pizza Day 🧀
 DESCRIPTION:Celebrating everyone's favorite food
 DTSTART:20250209
@@ -95,7 +95,7 @@ CATEGORIES:Fun
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250214-valentines-day@chaos-carnival
+UID:20250214-valentines-day@kinetical
 SUMMARY:❤️ Valentine's Day 💘
 DESCRIPTION:Annual celebration of love and affection
 DTSTART:20250214
@@ -105,7 +105,7 @@ CATEGORIES:Holiday
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250217-presidents-day@chaos-carnival
+UID:20250217-presidents-day@kinetical
 SUMMARY:🇺🇸 President's Day 🦅
 DESCRIPTION:Honoring US presidents particularly Washington and Lincoln
 DTSTART:20250217
@@ -115,7 +115,7 @@ CATEGORIES:Government Holiday
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250221-mardi-gras@chaos-carnival
+UID:20250221-mardi-gras@kinetical
 SUMMARY:⚜️ Mardi Gras 🎭
 DESCRIPTION:Fat Tuesday celebrations in New Orleans
 DTSTART:20250221
@@ -125,7 +125,7 @@ CATEGORIES:Cultural Event
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250229-leap-day@chaos-carnival
+UID:20250229-leap-day@kinetical
 SUMMARY:🗓️ Leap Day ⏳
 DESCRIPTION:Extra day added to calendar every 4 years
 DTSTART:20250229
@@ -135,7 +135,7 @@ CATEGORIES:Notable Event
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250308-womens-day@chaos-carnival
+UID:20250308-womens-day@kinetical
 SUMMARY:👩 Women's Day 💪
 DESCRIPTION:Celebrating women's achievements
 DTSTART:20250308
@@ -145,17 +145,17 @@ CATEGORIES:Appreciation
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250308-sxsw-begins@chaos-carnival
+UID:20250308-sxsw-begins@kinetical
 SUMMARY:🎵 SXSW Festival Begins 🎬
 DESCRIPTION:South by Southwest - Music, Film, and Interactive Media Festival
 DTSTART:20250308
-DTEND:20250309
+DTEND:20250317
 RRULE:FREQ=YEARLY
 CATEGORIES:Cultural Event
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250309-daylight-saving-begins@chaos-carnival
+UID:20250309-daylight-saving-begins@kinetical
 SUMMARY:⏰ Spring Forward 🌅
 DESCRIPTION:Clocks move forward one hour
 DTSTART:20250309
@@ -165,7 +165,7 @@ CATEGORIES:Notable Event
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250310-oscars@chaos-carnival
+UID:20250310-oscars@kinetical
 SUMMARY:🎬 Academy Awards 🏆
 DESCRIPTION:Annual film industry awards ceremony
 DTSTART:20250310
@@ -175,7 +175,7 @@ CATEGORIES:Entertainment
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250316-march-madness@chaos-carnival
+UID:20250316-march-madness@kinetical
 SUMMARY:🏀 March Madness Selection Sunday 📊
 DESCRIPTION:Start of NCAA Basketball Tournament
 DTSTART:20250316
@@ -185,7 +185,7 @@ CATEGORIES:Sporting Event
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250316-f1-australia@chaos-carnival
+UID:20250316-f1-australia@kinetical
 SUMMARY:🏎️ F1: Australian Grand Prix 🇦🇺
 DESCRIPTION:Formula 1 World Championship - Melbourne Grand Prix Circuit
 DTSTART:20250316
@@ -195,7 +195,7 @@ CATEGORIES:Sporting Event
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250330-f1-bahrain@chaos-carnival
+UID:20250330-f1-bahrain@kinetical
 SUMMARY:🏎️ F1: Bahrain Grand Prix 🇧🇭
 DESCRIPTION:Formula 1 World Championship - Bahrain International Circuit
 DTSTART:20250330
@@ -205,7 +205,7 @@ CATEGORIES:Sporting Event
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250401-poetry-month-begins@chaos-carnival
+UID:20250401-poetry-month-begins@kinetical
 SUMMARY:📝 Poetry Month Begins 🖋️
 DESCRIPTION:Celebrating poetry and literature
 DTSTART:20250401
@@ -215,7 +215,7 @@ CATEGORIES:Appreciation
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250410-siblings-day@chaos-carnival
+UID:20250410-siblings-day@kinetical
 SUMMARY:👯 Siblings Day 👫
 DESCRIPTION:Celebrating brotherly and sisterly bonds
 DTSTART:20250410
@@ -225,37 +225,37 @@ CATEGORIES:Appreciation
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250410-masters-tournament@chaos-carnival
+UID:20250410-masters-tournament@kinetical
 SUMMARY:⛳ The Masters 🌺
 DESCRIPTION:First major championship of the professional golf season
 DTSTART:20250410
-DTEND:20250414
+DTEND:20250413
 RRULE:FREQ=YEARLY
 CATEGORIES:Sporting Event
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250412-coachella-weekend1@chaos-carnival
+UID:20250411-coachella-weekend1@kinetical
 SUMMARY:🎵 Coachella Weekend 1 🎪
 DESCRIPTION:First weekend of Coachella Valley Music and Arts Festival
-DTSTART:20250412
+DTSTART:20250411
 DTEND:20250414
 RRULE:FREQ=YEARLY
 CATEGORIES:Cultural Event
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250419-coachella-weekend2@chaos-carnival
+UID:20250418-coachella-weekend2@kinetical
 SUMMARY:🎵 Coachella Weekend 2 🎪
 DESCRIPTION:Second weekend of Coachella Valley Music and Arts Festival
-DTSTART:20250419
+DTSTART:20250418
 DTEND:20250421
 RRULE:FREQ=YEARLY
 CATEGORIES:Cultural Event
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250413-f1-china@chaos-carnival
+UID:20250413-f1-china@kinetical
 SUMMARY:🏎️ F1: Chinese Grand Prix 🇨🇳
 DESCRIPTION:Formula 1 World Championship - Shanghai International Circuit
 DTSTART:20250413
@@ -265,7 +265,7 @@ CATEGORIES:Sporting Event
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250420-easter@chaos-carnival
+UID:20250420-easter@kinetical
 SUMMARY:🐰 Easter Sunday 🥚
 DESCRIPTION:Christian holiday celebrating the resurrection of Jesus
 DTSTART:20250420
@@ -275,7 +275,7 @@ CATEGORIES:Religious Event
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250422-earth-day@chaos-carnival
+UID:20250422-earth-day@kinetical
 SUMMARY:🌍 Earth Day 🌱
 DESCRIPTION:Global environmental awareness
 DTSTART:20250422
@@ -285,7 +285,7 @@ CATEGORIES:Appreciation
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250425-arbor-day@chaos-carnival
+UID:20250425-arbor-day@kinetical
 SUMMARY:🌳 Arbor Day 🍃
 DESCRIPTION:Celebrating and planting trees
 DTSTART:20250425
@@ -295,17 +295,17 @@ CATEGORIES:Appreciation
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250427-f1-miami@chaos-carnival
+UID:20250502-f1-miami@kinetical
 SUMMARY:🏎️ F1: Miami Grand Prix 🇺🇸
 DESCRIPTION:Formula 1 World Championship - Miami International Autodrome
-DTSTART:20250427
-DTEND:20250428
+DTSTART:20250502
+DTEND:20250504
 RRULE:FREQ=YEARLY
 CATEGORIES:Sporting Event
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250501-may-day@chaos-carnival
+UID:20250501-may-day@kinetical
 SUMMARY:🌼 May Day 💐
 DESCRIPTION:Spring celebration and workers' holiday
 DTSTART:20250501
@@ -315,7 +315,7 @@ CATEGORIES:Holiday
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250503-kentucky-derby@chaos-carnival
+UID:20250503-kentucky-derby@kinetical
 SUMMARY:🐎 Kentucky Derby 🌹
 DESCRIPTION:First leg of the Triple Crown horse racing series
 DTSTART:20250503
@@ -325,7 +325,7 @@ CATEGORIES:Sporting Event
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250503-press-freedom-day@chaos-carnival
+UID:20250503-press-freedom-day@kinetical
 SUMMARY:📰 Press Freedom Day 🗽
 DESCRIPTION:Celebrating journalism and press freedom
 DTSTART:20250503
@@ -335,7 +335,7 @@ CATEGORIES:Appreciation
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250504-star-wars-day@chaos-carnival
+UID:20250504-star-wars-day@kinetical
 SUMMARY:🚀 Star Wars Day 🌌
 DESCRIPTION:Celebration of Star Wars franchise
 DTSTART:20250504
@@ -345,7 +345,7 @@ CATEGORIES:Fun
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250506-teachers-day@chaos-carnival
+UID:20250506-teachers-day@kinetical
 SUMMARY:👩‍🏫 Teacher's Day 📚
 DESCRIPTION:Honoring educators
 DTSTART:20250506
@@ -355,17 +355,17 @@ CATEGORIES:Appreciation
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250511-f1-monaco@chaos-carnival
+UID:20250523-f1-monaco@kinetical
 SUMMARY:🏎️ F1: Monaco Grand Prix 🇲🇨
 DESCRIPTION:Formula 1 World Championship - Circuit de Monaco
-DTSTART:20250511
-DTEND:20250512
+DTSTART:20250523
+DTEND:20250525
 RRULE:FREQ=YEARLY
 CATEGORIES:Sporting Event
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250511-mothers-day@chaos-carnival
+UID:20250511-mothers-day@kinetical
 SUMMARY:👩‍👧 Mother's Day ❤️
 DESCRIPTION:Annual celebration honoring mothers
 DTSTART:20250511
@@ -375,7 +375,7 @@ CATEGORIES:Appreciation
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250517-preakness-stakes@chaos-carnival
+UID:20250517-preakness-stakes@kinetical
 SUMMARY:🐎 Preakness Stakes 🏆
 DESCRIPTION:Second leg of the Triple Crown
 DTSTART:20250517
@@ -385,17 +385,17 @@ CATEGORIES:Sporting Event
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250525-f1-spain@chaos-carnival
+UID:20250530-f1-spain@kinetical
 SUMMARY:🏎️ F1: Spanish Grand Prix 🇪🇸
 DESCRIPTION:Formula 1 World Championship - Circuit de Barcelona-Catalunya
-DTSTART:20250525
-DTEND:20250526
+DTSTART:20250530
+DTEND:20250601
 RRULE:FREQ=YEARLY
 CATEGORIES:Sporting Event
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250525-indy500@chaos-carnival
+UID:20250525-indy500@kinetical
 SUMMARY:🏎️ Indianapolis 500 🏁
 DESCRIPTION:The Greatest Spectacle in Racing
 DTSTART:20250525
@@ -405,7 +405,7 @@ CATEGORIES:Sporting Event
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250526-memorial-day@chaos-carnival
+UID:20250526-memorial-day@kinetical
 SUMMARY:🇺🇸 Memorial Day 🎖️
 DESCRIPTION:Honoring military personnel who died in service
 DTSTART:20250526
@@ -415,7 +415,7 @@ CATEGORIES:Federal Holiday
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250601-pride-month-begins@chaos-carnival
+UID:20250601-pride-month-begins@kinetical
 SUMMARY:🏳️‍🌈 Pride Month Begins 🤝
 DESCRIPTION:LGBTQ+ rights and celebration
 DTSTART:20250601
@@ -425,7 +425,7 @@ CATEGORIES:Appreciation
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250606-donut-day@chaos-carnival
+UID:20250606-donut-day@kinetical
 SUMMARY:🍩 Donut Day 🥤
 DESCRIPTION:Celebrating delicious donuts
 DTSTART:20250606
@@ -435,7 +435,7 @@ CATEGORIES:Fun
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250607-belmont-stakes@chaos-carnival
+UID:20250607-belmont-stakes@kinetical
 SUMMARY:🐎 Belmont Stakes 👑
 DESCRIPTION:Final leg of the Triple Crown
 DTSTART:20250607
@@ -445,17 +445,17 @@ CATEGORIES:Sporting Event
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250608-f1-canada@chaos-carnival
+UID:20250613-f1-canada@kinetical
 SUMMARY:🏎️ F1: Canadian Grand Prix 🇨🇦
 DESCRIPTION:Formula 1 World Championship - Circuit Gilles Villeneuve
-DTSTART:20250608
-DTEND:20250609
+DTSTART:20250613
+DTEND:20250615
 RRULE:FREQ=YEARLY
 CATEGORIES:Sporting Event
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250608-oceans-day@chaos-carnival
+UID:20250608-oceans-day@kinetical
 SUMMARY:🌊 Oceans Day 🐠
 DESCRIPTION:Raising awareness about ocean conservation
 DTSTART:20250608
@@ -465,7 +465,7 @@ CATEGORIES:Appreciation
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250608-tony-awards@chaos-carnival
+UID:20250608-tony-awards@kinetical
 SUMMARY:🎭 Tony Awards 🏆
 DESCRIPTION:Annual theater and Broadway awards ceremony
 DTSTART:20250608
@@ -475,7 +475,7 @@ CATEGORIES:Entertainment
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250612-nba-finals@chaos-carnival
+UID:20250612-nba-finals@kinetical
 SUMMARY:🏀 NBA Finals Begin 🏆
 DESCRIPTION:NBA Championship Series
 DTSTART:20250612
@@ -485,17 +485,17 @@ CATEGORIES:Sporting Event
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250613-us-open-golf@chaos-carnival
+UID:20250612-us-open-golf@kinetical
 SUMMARY:⛳ US Open Golf 🏆
 DESCRIPTION:Second major championship of the golf season
-DTSTART:20250613
-DTEND:20250616
+DTSTART:20250612
+DTEND:20250615
 RRULE:FREQ=YEARLY
 CATEGORIES:Sporting Event
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250615-stanley-cup@chaos-carnival
+UID:20250615-stanley-cup@kinetical
 SUMMARY:🏒 Stanley Cup Finals Begin 🏆
 DESCRIPTION:NHL Championship Series
 DTSTART:20250615
@@ -505,27 +505,27 @@ CATEGORIES:Sporting Event
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250622-f1-austria@chaos-carnival
+UID:20250627-f1-austria@kinetical
 SUMMARY:🏎️ F1: Austrian Grand Prix 🇦🇹
 DESCRIPTION:Formula 1 World Championship - Red Bull Ring
-DTSTART:20250622
-DTEND:20250623
+DTSTART:20250627
+DTEND:20250629
 RRULE:FREQ=YEARLY
 CATEGORIES:Sporting Event
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250701-wimbledon@chaos-carnival
+UID:20250623-wimbledon@kinetical
 SUMMARY:🎾 Wimbledon Begins 🏆
 DESCRIPTION:The Championships, Wimbledon - Prestigious Grand Slam tennis tournament
-DTSTART:20250701
-DTEND:20250702
+DTSTART:20250623
+DTEND:20250706
 RRULE:FREQ=YEARLY
 CATEGORIES:Sporting Event
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250706-f1-britain@chaos-carnival
+UID:20250706-f1-britain@kinetical
 SUMMARY:🏎️ F1: British Grand Prix 🇬🇧
 DESCRIPTION:Formula 1 World Championship - Silverstone Circuit
 DTSTART:20250706
@@ -535,17 +535,17 @@ CATEGORIES:Sporting Event
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250711-prime-day-summer@chaos-carnival
+UID:20250715-prime-day-summer@kinetical
 SUMMARY:🛍️ Amazon Prime Day Summer 🔥
 DESCRIPTION:Annual summer shopping event for Prime members
-DTSTART:20250711
-DTEND:20250713
+DTSTART:20250715
+DTEND:20250716
 RRULE:FREQ=YEARLY
 CATEGORIES:Shopping
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250715-mlb-allstar@chaos-carnival
+UID:20250715-mlb-allstar@kinetical
 SUMMARY:⚾ MLB All-Star Game ⭐
 DESCRIPTION:Major League Baseball's Midsummer Classic
 DTSTART:20250715
@@ -555,27 +555,27 @@ CATEGORIES:Sporting Event
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250717-comic-con@chaos-carnival
+UID:20250724-comic-con@kinetical
 SUMMARY:🦸‍♂️ Comic-Con International 🎮
 DESCRIPTION:World's largest comic and pop culture festival
-DTSTART:20250717
-DTEND:20250721
+DTSTART:20250724
+DTEND:20250727
 RRULE:FREQ=YEARLY
 CATEGORIES:Cultural Event
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250718-british-open@chaos-carnival
+UID:20250717-british-open@kinetical
 SUMMARY:⛳ The Open Championship 🏆
 DESCRIPTION:Final major championship of the golf season
-DTSTART:20250718
-DTEND:20250721
+DTSTART:20250717
+DTEND:20250720
 RRULE:FREQ=YEARLY
 CATEGORIES:Sporting Event
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250720-f1-hungary@chaos-carnival
+UID:20250720-f1-hungary@kinetical
 SUMMARY:🏎️ F1: Hungarian Grand Prix 🇭🇺
 DESCRIPTION:Formula 1 World Championship - Hungaroring
 DTSTART:20250720
@@ -585,27 +585,27 @@ CATEGORIES:Sporting Event
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250725-olympics-opening@chaos-carnival
+UID:20250725-olympics-opening@kinetical
 SUMMARY:🏅 Olympics Opening 🌍
 DESCRIPTION:Start of the international multi-sport event
-DTSTART:20250726
-DTEND:20250727
+DTSTART:20250725
+DTEND:20250803
 RRULE:FREQ=YEARLY;INTERVAL=4
 CATEGORIES:Sporting Event
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250810-shark-week@chaos-carnival
+UID:20250810-shark-week@kinetical
 SUMMARY:🦈 Shark Week 🌊
 DESCRIPTION:Discovery Channel's marine life programming
 DTSTART:20250810
-DTEND:20250811
+DTEND:20250817
 RRULE:FREQ=YEARLY
 CATEGORIES:Media Event
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250819-photography-day@chaos-carnival
+UID:20250819-photography-day@kinetical
 SUMMARY:📷 Photography Day 🌄
 DESCRIPTION:Celebrating the art of photography
 DTSTART:20250819
@@ -615,37 +615,37 @@ CATEGORIES:Appreciation
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250824-f1-belgium@chaos-carnival
+UID:20250829-f1-belgium@kinetical
 SUMMARY:🏎️ F1: Belgian Grand Prix 🇧🇪
 DESCRIPTION:Formula 1 World Championship - Circuit de Spa-Francorchamps
-DTSTART:20250824
-DTEND:20250825
+DTSTART:20250829
+DTEND:20250831
 RRULE:FREQ=YEARLY
 CATEGORIES:Sporting Event
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250825-us-open-tennis@chaos-carnival
+UID:20250825-us-open-tennis@kinetical
 SUMMARY:🎾 US Open Tennis Begins 🏆
 DESCRIPTION:Final Grand Slam tournament of the tennis season
 DTSTART:20250825
-DTEND:20250826
+DTEND:20250907
 RRULE:FREQ=YEARLY
 CATEGORIES:Sporting Event
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250825-vma-awards@chaos-carnival
+UID:20250824-vma-awards@kinetical
 SUMMARY:🎵 MTV Video Music Awards 🏆
 DESCRIPTION:Annual music video awards ceremony
-DTSTART:20250825
-DTEND:20250826
+DTSTART:20250824
+DTEND:20250825
 RRULE:FREQ=YEARLY
 CATEGORIES:Entertainment
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250826-dog-day@chaos-carnival
+UID:20250826-dog-day@kinetical
 SUMMARY:🐶 Dog Day 🦴
 DESCRIPTION:Celebrating man's best friend
 DTSTART:20250826
@@ -655,7 +655,7 @@ CATEGORIES:Fun
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250901-labor-day@chaos-carnival
+UID:20250901-labor-day@kinetical
 SUMMARY:👷 Labor Day 🛠️
 DESCRIPTION:Celebration of American workers
 DTSTART:20250901
@@ -665,7 +665,7 @@ CATEGORIES:Government Holiday
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250905-charity-day@chaos-carnival
+UID:20250905-charity-day@kinetical
 SUMMARY:❤️ Charity Day 🤲
 DESCRIPTION:Promoting global humanitarian efforts
 DTSTART:20250905
@@ -675,7 +675,7 @@ CATEGORIES:Appreciation
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250907-f1-netherlands@chaos-carnival
+UID:20250907-f1-netherlands@kinetical
 SUMMARY:🏎️ F1: Dutch Grand Prix 🇳🇱
 DESCRIPTION:Formula 1 World Championship - Circuit Zandvoort
 DTSTART:20250907
@@ -685,17 +685,17 @@ CATEGORIES:Sporting Event
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250908-nfl-season-begins@chaos-carnival
+UID:20250904-nfl-season-begins@kinetical
 SUMMARY:🏈 NFL Season Begins 🏃
 DESCRIPTION:Opening week of National Football League season
-DTSTART:20250908
-DTEND:20250909
+DTSTART:20250904
+DTEND:20260208
 RRULE:FREQ=YEARLY
 CATEGORIES:Sporting Event
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250915-emmy-awards@chaos-carnival
+UID:20250915-emmy-awards@kinetical
 SUMMARY:📺 Emmy Awards 🏆
 DESCRIPTION:Annual television industry awards ceremony
 DTSTART:20250915
@@ -705,17 +705,17 @@ CATEGORIES:Entertainment
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250917-oktoberfest-begins@chaos-carnival
+UID:20250920-oktoberfest-begins@kinetical
 SUMMARY:🍺 Oktoberfest Begins 🥨
 DESCRIPTION:Traditional German festival celebrations begin
-DTSTART:20250917
-DTEND:20250918
+DTSTART:20250920
+DTEND:20251005
 RRULE:FREQ=YEARLY
 CATEGORIES:Cultural Event
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250919-pirate-day@chaos-carnival
+UID:20250919-pirate-day@kinetical
 SUMMARY:🏴‍☠️ Pirate Day 🚢
 DESCRIPTION:International talk like a pirate celebration
 DTSTART:20250919
@@ -725,27 +725,27 @@ CATEGORIES:Fun
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250921-f1-italy@chaos-carnival
+UID:20250905-f1-italy@kinetical
 SUMMARY:🏎️ F1: Italian Grand Prix 🇮🇹
 DESCRIPTION:Formula 1 World Championship - Autodromo Nazionale Monza
-DTSTART:20250921
-DTEND:20250922
+DTSTART:20250905
+DTEND:20250907
 RRULE:FREQ=YEARLY
 CATEGORIES:Sporting Event
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20251001-breast-cancer-awareness-month-begins@chaos-carnival
+UID:20251001-breast-cancer-awareness-month-begins@kinetical
 SUMMARY:🎀 Breast Cancer Awareness Month Begins 💕
 DESCRIPTION:Raising awareness about breast cancer
 DTSTART:20251001
-DTEND:20251002
+DTEND:20251031
 RRULE:FREQ=YEARLY
 CATEGORIES:Appreciation
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20251005-f1-singapore@chaos-carnival
+UID:20251005-f1-singapore@kinetical
 SUMMARY:🏎️ F1: Singapore Grand Prix 🇸🇬
 DESCRIPTION:Formula 1 World Championship - Marina Bay Street Circuit
 DTSTART:20251005
@@ -755,7 +755,7 @@ CATEGORIES:Sporting Event
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20251010-mental-health-day@chaos-carnival
+UID:20251010-mental-health-day@kinetical
 SUMMARY:💚 Mental Health Day 🧠
 DESCRIPTION:Raising awareness about mental health
 DTSTART:20251010
@@ -765,107 +765,107 @@ CATEGORIES:Appreciation
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20251015-prime-day-fall@chaos-carnival
+UID:20251014-prime-day-fall@kinetical
 SUMMARY:🛍️ Amazon Prime Day Fall 🍂
 DESCRIPTION:Annual fall shopping event for Prime members
-DTSTART:20251015
-DTEND:20251017
+DTSTART:20251014
+DTEND:20251015
 RRULE:FREQ=YEARLY
 CATEGORIES:Shopping
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20251015-nhl-season-begins@chaos-carnival
+UID:20251007-nhl-season-begins@kinetical
 SUMMARY:🏒 NHL Season Begins ⚡
 DESCRIPTION:Opening week of National Hockey League season
-DTSTART:20251015
-DTEND:20251016
+DTSTART:20251007
+DTEND:20260409
 RRULE:FREQ=YEARLY
 CATEGORIES:Sporting Event
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20251019-f1-japan@chaos-carnival
+UID:20251010-f1-japan@kinetical
 SUMMARY:🏎️ F1: Japanese Grand Prix 🇯🇵
 DESCRIPTION:Formula 1 World Championship - Suzuka International Racing Course
-DTSTART:20251019
-DTEND:20251020
+DTSTART:20251010
+DTEND:20251012
 RRULE:FREQ=YEARLY
 CATEGORIES:Sporting Event
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20251022-nba-season-begins@chaos-carnival
+UID:20251021-nba-season-begins@kinetical
 SUMMARY:🏀 NBA Season Begins 🔥
 DESCRIPTION:Opening week of National Basketball Association season
-DTSTART:20251022
-DTEND:20251023
+DTSTART:20251021
+DTEND:20260415
 RRULE:FREQ=YEARLY
 CATEGORIES:Sporting Event
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20251102-f1-mexico@chaos-carnival
+UID:20251024-f1-mexico@kinetical
 SUMMARY:🏎️ F1: Mexican Grand Prix 🇲🇽
 DESCRIPTION:Formula 1 World Championship - Autódromo Hermanos Rodríguez
-DTSTART:20251102
-DTEND:20251103
+DTSTART:20251024
+DTEND:20251026
 RRULE:FREQ=YEARLY
 CATEGORIES:Sporting Event
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20251018-world-series@chaos-carnival
+UID:20251021-world-series@kinetical
 SUMMARY:⚾ World Series Begins 🏆
 DESCRIPTION:MLB Championship Series
-DTSTART:20251018
-DTEND:20251019
+DTSTART:20251021
+DTEND:20251029
 RRULE:FREQ=YEARLY
 CATEGORIES:Sporting Event
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20251116-f1-brazil@chaos-carnival
+UID:20251107-f1-brazil@kinetical
 SUMMARY:🏎️ F1: Brazilian Grand Prix 🇧🇷
 DESCRIPTION:Formula 1 World Championship - Autódromo José Carlos Pace
-DTSTART:20251116
-DTEND:20251117
+DTSTART:20251107
+DTEND:20251109
 RRULE:FREQ=YEARLY
 CATEGORIES:Sporting Event
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20251130-f1-abu-dhabi@chaos-carnival
+UID:20251121-f1-abu-dhabi@kinetical
 SUMMARY:🏎️ F1: Abu Dhabi Grand Prix 🇦🇪
 DESCRIPTION:Formula 1 World Championship - Yas Marina Circuit
-DTSTART:20251130
-DTEND:20251201
+DTSTART:20251121
+DTEND:20251123
 RRULE:FREQ=YEARLY
 CATEGORIES:Sporting Event
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250615-world-cup-begins@chaos-carnival
-SUMMARY:⚽ World Cup Begins 🌎
+UID:20260611-world-cup-begins@kinetical
+SUMMARY:⚽ FIFA World Cup Begins 🌎
 DESCRIPTION:FIFA World Cup Tournament Opening
-DTSTART:20260615
-DTEND:20260616
+DTSTART:20260611
+DTEND:20260719
 RRULE:FREQ=YEARLY;INTERVAL=4
 CATEGORIES:Sporting Event
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250713-world-cup-final@chaos-carnival
-SUMMARY:⚽ World Cup Final 🏆
+UID:20260719-world-cup-final@kinetical
+SUMMARY:⚽ FIFA World Cup Final 🏆
 DESCRIPTION:FIFA World Cup Championship Match
-DTSTART:20260713
-DTEND:20260714
+DTSTART:20260719
+DTEND:20260720
 RRULE:FREQ=YEARLY;INTERVAL=4
 CATEGORIES:Sporting Event
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20251221-winter-solstice@chaos-carnival
+UID:20251221-winter-solstice@kinetical
 SUMMARY:❄️ Winter Solstice 🌙
 DESCRIPTION:Shortest day of the year in Northern Hemisphere
 DTSTART:20251221
@@ -875,7 +875,7 @@ CATEGORIES:Notable Event
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20251225-christmas@chaos-carnival
+UID:20251225-christmas@kinetical
 SUMMARY:🎄 Christmas Day 🎁
 DESCRIPTION:Annual Christian holiday celebrating Jesus's birth
 DTSTART:20251225
@@ -885,7 +885,7 @@ CATEGORIES:Religious Event
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20251231-new-years-eve@chaos-carnival
+UID:20251231-new-years-eve@kinetical
 SUMMARY:🎉 New Year's Eve 🎊
 DESCRIPTION:Celebration of the upcoming new year
 DTSTART:20251231
