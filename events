@@ -145,16 +145,6 @@ CATEGORIES:Appreciation
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250308-sxsw-begins@kinetical
-SUMMARY:🎵 SXSW Festival Begins 🎬
-DESCRIPTION:South by Southwest - Music, Film, and Interactive Media Festival
-DTSTART:20250308
-DTEND:20250317
-RRULE:FREQ=YEARLY
-CATEGORIES:Cultural Event
-END:VEVENT
-
-BEGIN:VEVENT
 UID:20250309-daylight-saving-begins@kinetical
 SUMMARY:⏰ Spring Forward 🌅
 DESCRIPTION:Clocks move forward one hour
@@ -225,36 +215,6 @@ CATEGORIES:Appreciation
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250410-masters-tournament@kinetical
-SUMMARY:⛳ The Masters 🌺
-DESCRIPTION:First major championship of the professional golf season
-DTSTART:20250410
-DTEND:20250413
-RRULE:FREQ=YEARLY
-CATEGORIES:Sporting Event
-END:VEVENT
-
-BEGIN:VEVENT
-UID:20250411-coachella-weekend1@kinetical
-SUMMARY:🎵 Coachella Weekend 1 🎪
-DESCRIPTION:First weekend of Coachella Valley Music and Arts Festival
-DTSTART:20250411
-DTEND:20250414
-RRULE:FREQ=YEARLY
-CATEGORIES:Cultural Event
-END:VEVENT
-
-BEGIN:VEVENT
-UID:20250418-coachella-weekend2@kinetical
-SUMMARY:🎵 Coachella Weekend 2 🎪
-DESCRIPTION:Second weekend of Coachella Valley Music and Arts Festival
-DTSTART:20250418
-DTEND:20250421
-RRULE:FREQ=YEARLY
-CATEGORIES:Cultural Event
-END:VEVENT
-
-BEGIN:VEVENT
 UID:20250413-f1-china@kinetical
 SUMMARY:🏎️ F1: Chinese Grand Prix 🇨🇳
 DESCRIPTION:Formula 1 World Championship - Shanghai International Circuit
@@ -292,16 +252,6 @@ DTSTART:20250425
 DTEND:20250426
 RRULE:FREQ=YEARLY
 CATEGORIES:Appreciation
-END:VEVENT
-
-BEGIN:VEVENT
-UID:20250502-f1-miami@kinetical
-SUMMARY:🏎️ F1: Miami Grand Prix 🇺🇸
-DESCRIPTION:Formula 1 World Championship - Miami International Autodrome
-DTSTART:20250502
-DTEND:20250504
-RRULE:FREQ=YEARLY
-CATEGORIES:Sporting Event
 END:VEVENT
 
 BEGIN:VEVENT
@@ -485,16 +435,6 @@ CATEGORIES:Sporting Event
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250612-us-open-golf@kinetical
-SUMMARY:⛳ US Open Golf 🏆
-DESCRIPTION:Second major championship of the golf season
-DTSTART:20250612
-DTEND:20250615
-RRULE:FREQ=YEARLY
-CATEGORIES:Sporting Event
-END:VEVENT
-
-BEGIN:VEVENT
 UID:20250615-stanley-cup@kinetical
 SUMMARY:🏒 Stanley Cup Finals Begin 🏆
 DESCRIPTION:NHL Championship Series
@@ -510,16 +450,6 @@ SUMMARY:🏎️ F1: Austrian Grand Prix 🇦🇹
 DESCRIPTION:Formula 1 World Championship - Red Bull Ring
 DTSTART:20250627
 DTEND:20250629
-RRULE:FREQ=YEARLY
-CATEGORIES:Sporting Event
-END:VEVENT
-
-BEGIN:VEVENT
-UID:20250623-wimbledon@kinetical
-SUMMARY:🎾 Wimbledon Begins 🏆
-DESCRIPTION:The Championships, Wimbledon - Prestigious Grand Slam tennis tournament
-DTSTART:20250623
-DTEND:20250706
 RRULE:FREQ=YEARLY
 CATEGORIES:Sporting Event
 END:VEVENT
@@ -555,26 +485,6 @@ CATEGORIES:Sporting Event
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250724-comic-con@kinetical
-SUMMARY:🦸‍♂️ Comic-Con International 🎮
-DESCRIPTION:World's largest comic and pop culture festival
-DTSTART:20250724
-DTEND:20250727
-RRULE:FREQ=YEARLY
-CATEGORIES:Cultural Event
-END:VEVENT
-
-BEGIN:VEVENT
-UID:20250717-british-open@kinetical
-SUMMARY:⛳ The Open Championship 🏆
-DESCRIPTION:Final major championship of the golf season
-DTSTART:20250717
-DTEND:20250720
-RRULE:FREQ=YEARLY
-CATEGORIES:Sporting Event
-END:VEVENT
-
-BEGIN:VEVENT
 UID:20250720-f1-hungary@kinetical
 SUMMARY:🏎️ F1: Hungarian Grand Prix 🇭🇺
 DESCRIPTION:Formula 1 World Championship - Hungaroring
@@ -582,26 +492,6 @@ DTSTART:20250720
 DTEND:20250721
 RRULE:FREQ=YEARLY
 CATEGORIES:Sporting Event
-END:VEVENT
-
-BEGIN:VEVENT
-UID:20250725-olympics-opening@kinetical
-SUMMARY:🏅 Olympics Opening 🌍
-DESCRIPTION:Start of the international multi-sport event
-DTSTART:20250725
-DTEND:20250803
-RRULE:FREQ=YEARLY;INTERVAL=4
-CATEGORIES:Sporting Event
-END:VEVENT
-
-BEGIN:VEVENT
-UID:20250810-shark-week@kinetical
-SUMMARY:🦈 Shark Week 🌊
-DESCRIPTION:Discovery Channel's marine life programming
-DTSTART:20250810
-DTEND:20250817
-RRULE:FREQ=YEARLY
-CATEGORIES:Media Event
 END:VEVENT
 
 BEGIN:VEVENT
@@ -620,16 +510,6 @@ SUMMARY:🏎️ F1: Belgian Grand Prix 🇧🇪
 DESCRIPTION:Formula 1 World Championship - Circuit de Spa-Francorchamps
 DTSTART:20250829
 DTEND:20250831
-RRULE:FREQ=YEARLY
-CATEGORIES:Sporting Event
-END:VEVENT
-
-BEGIN:VEVENT
-UID:20250825-us-open-tennis@kinetical
-SUMMARY:🎾 US Open Tennis Begins 🏆
-DESCRIPTION:Final Grand Slam tournament of the tennis season
-DTSTART:20250825
-DTEND:20250907
 RRULE:FREQ=YEARLY
 CATEGORIES:Sporting Event
 END:VEVENT
@@ -685,16 +565,6 @@ CATEGORIES:Sporting Event
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20250904-nfl-season-begins@kinetical
-SUMMARY:🏈 NFL Season Begins 🏃
-DESCRIPTION:Opening week of National Football League season
-DTSTART:20250904
-DTEND:20260208
-RRULE:FREQ=YEARLY
-CATEGORIES:Sporting Event
-END:VEVENT
-
-BEGIN:VEVENT
 UID:20250915-emmy-awards@kinetical
 SUMMARY:📺 Emmy Awards 🏆
 DESCRIPTION:Annual television industry awards ceremony
@@ -702,16 +572,6 @@ DTSTART:20250915
 DTEND:20250916
 RRULE:FREQ=YEARLY
 CATEGORIES:Entertainment
-END:VEVENT
-
-BEGIN:VEVENT
-UID:20250920-oktoberfest-begins@kinetical
-SUMMARY:🍺 Oktoberfest Begins 🥨
-DESCRIPTION:Traditional German festival celebrations begin
-DTSTART:20250920
-DTEND:20251005
-RRULE:FREQ=YEARLY
-CATEGORIES:Cultural Event
 END:VEVENT
 
 BEGIN:VEVENT
@@ -732,16 +592,6 @@ DTSTART:20250905
 DTEND:20250907
 RRULE:FREQ=YEARLY
 CATEGORIES:Sporting Event
-END:VEVENT
-
-BEGIN:VEVENT
-UID:20251001-breast-cancer-awareness-month-begins@kinetical
-SUMMARY:🎀 Breast Cancer Awareness Month Begins 💕
-DESCRIPTION:Raising awareness about breast cancer
-DTSTART:20251001
-DTEND:20251031
-RRULE:FREQ=YEARLY
-CATEGORIES:Appreciation
 END:VEVENT
 
 BEGIN:VEVENT
@@ -775,31 +625,11 @@ CATEGORIES:Shopping
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20251007-nhl-season-begins@kinetical
-SUMMARY:🏒 NHL Season Begins ⚡
-DESCRIPTION:Opening week of National Hockey League season
-DTSTART:20251007
-DTEND:20260409
-RRULE:FREQ=YEARLY
-CATEGORIES:Sporting Event
-END:VEVENT
-
-BEGIN:VEVENT
 UID:20251010-f1-japan@kinetical
 SUMMARY:🏎️ F1: Japanese Grand Prix 🇯🇵
 DESCRIPTION:Formula 1 World Championship - Suzuka International Racing Course
 DTSTART:20251010
 DTEND:20251012
-RRULE:FREQ=YEARLY
-CATEGORIES:Sporting Event
-END:VEVENT
-
-BEGIN:VEVENT
-UID:20251021-nba-season-begins@kinetical
-SUMMARY:🏀 NBA Season Begins 🔥
-DESCRIPTION:Opening week of National Basketball Association season
-DTSTART:20251021
-DTEND:20260415
 RRULE:FREQ=YEARLY
 CATEGORIES:Sporting Event
 END:VEVENT
@@ -815,52 +645,12 @@ CATEGORIES:Sporting Event
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20251021-world-series@kinetical
-SUMMARY:⚾ World Series Begins 🏆
-DESCRIPTION:MLB Championship Series
-DTSTART:20251021
-DTEND:20251029
-RRULE:FREQ=YEARLY
-CATEGORIES:Sporting Event
-END:VEVENT
-
-BEGIN:VEVENT
 UID:20251107-f1-brazil@kinetical
 SUMMARY:🏎️ F1: Brazilian Grand Prix 🇧🇷
 DESCRIPTION:Formula 1 World Championship - Autódromo José Carlos Pace
 DTSTART:20251107
 DTEND:20251109
 RRULE:FREQ=YEARLY
-CATEGORIES:Sporting Event
-END:VEVENT
-
-BEGIN:VEVENT
-UID:20251121-f1-abu-dhabi@kinetical
-SUMMARY:🏎️ F1: Abu Dhabi Grand Prix 🇦🇪
-DESCRIPTION:Formula 1 World Championship - Yas Marina Circuit
-DTSTART:20251121
-DTEND:20251123
-RRULE:FREQ=YEARLY
-CATEGORIES:Sporting Event
-END:VEVENT
-
-BEGIN:VEVENT
-UID:20260611-world-cup-begins@kinetical
-SUMMARY:⚽ FIFA World Cup Begins 🌎
-DESCRIPTION:FIFA World Cup Tournament Opening
-DTSTART:20260611
-DTEND:20260719
-RRULE:FREQ=YEARLY;INTERVAL=4
-CATEGORIES:Sporting Event
-END:VEVENT
-
-BEGIN:VEVENT
-UID:20260719-world-cup-final@kinetical
-SUMMARY:⚽ FIFA World Cup Final 🏆
-DESCRIPTION:FIFA World Cup Championship Match
-DTSTART:20260719
-DTEND:20260720
-RRULE:FREQ=YEARLY;INTERVAL=4
 CATEGORIES:Sporting Event
 END:VEVENT
 
